@@ -1,9 +1,11 @@
 <h1 align="center">Hi, mein Name ist Cyril</h1>
-- [Frontend - 3 Monate](Frontend - 3 Monate)
+- Bootcampalumni 2023 (Vollzeit)
 
-- **Bootcampalumni 2023 (Vollzeit)**
+- Front- und Backend Web Dev
 
-- **Front- und Backend Web Dev**
+- Frontend - 3 Monate
+
+- Frontend - 3 Monate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
