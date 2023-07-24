@@ -6,7 +6,7 @@
 
 - Frontend - 3 Monate
 
-- Frontend - 3 Monate
+- Backend - 2 Monate
 
 
 <p align="left">
